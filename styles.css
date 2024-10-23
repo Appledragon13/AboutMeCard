@@ -23,7 +23,7 @@ a {
 .logo {
     margin: 0;
     font-size: 1.45em;
-    color: #fff;
+    color: #e3cd0a;
 }
 
 .main-nav {
@@ -44,14 +44,14 @@ a {
 }
 
 .main-nav a:hover {
-    color: #FF9505;
+    color: #0565ff;
 }
 
 .header {
     padding-top: .5em;
     padding-bottom: .5em;
-    border: 1px solid #FF9505;
-    background-color: #FF950588;
+    border: 1px solid #7a00d188;
+    background-color: #7a00d1;
     box-shadow: 0px 0px 14px 0px rgba(0, 0, 0, 0.75);
     border-radius: 5px;
 }
