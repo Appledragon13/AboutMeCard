@@ -1,3 +1,13 @@
+/*Color pallet
+
+#47f7b5 - Sea Green
+#17b6b6 - Turquoise 
+#193ce8 - Blue
+#1f0763 - Dark Blue
+#ff5eff - Pink
+
+*/
+
 * {
     box-sizing: border-box;
     /* Box Model Fix */
@@ -7,8 +17,9 @@
 }
 
     body {
-        background-image: linear-gradient(0deg, hsla(0, 100%, 56%, 1) 0%, hsla(136, 100%, 52%, 1) 100%);
+        background-color:#1f0763;
         height: 100vh;
+        color:#193ce8;
 }
 
 ul {
@@ -16,7 +27,7 @@ ul {
 }
 
 a {
-    color: #fff;
+    color: #17b6b6;
     text-decoration: none;
 }
 
